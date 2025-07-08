@@ -19,7 +19,7 @@
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/your-linkedin-profile/](https://in.linkedin.com/in/hasifbasha))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://in.linkedin.com/in/hasifbasha]).
 
 ---
 
