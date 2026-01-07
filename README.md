@@ -1,6 +1,6 @@
-# Hi there 👋
+# Welcome bruh 👋
 
-🎓 I'm currently pursuing my 3rd year of a Bachelor's degree in **Blockchain Technology**. I'm passionate about building decentralized applications and learning new technologies.
+I just build whatever the fuck I want
 
 ---
 
