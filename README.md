@@ -1,6 +1,6 @@
 # Welcome bruh 👋
 
-I just build whatever the fuck I want
+I love this Ai and Web3 tech.
 
 ---
 
