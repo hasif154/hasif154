@@ -1,6 +1,6 @@
 ## Hasif Basha
 
-**AI Engineer · Founding Engineer**: building a platform for governed AI agents.
+**AI Engineer · Founding Engineer**
 
 LLM systems · multi-agent orchestration · applied ML · low-latency inference
 
